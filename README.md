@@ -57,4 +57,18 @@ The model is built using Keras’ `Sequential` API:
 ---
 
 ## 🗂 File Structure
+├── main.py # Core training and evaluation script
+├── Figure_1.png # Predicted digit visualization
+├── Figure_2.png # Confusion matrix heatmap
+├── ok.png # Sample digit image from dataset
+└── README.md # Project documentation
 
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/nithun-rajan/Handwritten-digit-prediction-using-Neural-Networks.git
+cd Handwritten-digit-prediction-using-Neural-Networks
